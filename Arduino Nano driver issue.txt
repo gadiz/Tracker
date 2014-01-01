@@ -1,0 +1,8 @@
+Arduino Nano repair
+http://forum.arduino.cc/index.php?PHPSESSID=ji2ho439cdlad4q17kvlle9226&topic=165310.msg1238147#msg1238147
+
+1. Uninstall latest com port driver
+2. Install specific ftdi driver for 2.08.24
+3. Restart windows
+4. Installer for driver in folder
+needed to replace driver 
